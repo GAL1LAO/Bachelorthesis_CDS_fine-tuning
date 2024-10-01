@@ -2,7 +2,7 @@
 Fine-tuning GPT 3.5 - Turbo for CDS generation
 Python-version: 3.12.3
 
-Disclaimer: This Repo is only to illustrate the fine-tuning approach and serves as inspiration/hollastic overview for how to fine-tune GPT 3.5- Turbo. 
+Disclaimer: This Repo is only to illustrate the fine-tuning approach and serves as inspiration/hollastic overview for how to fine-tune GPT 3.5- Turbo in regards to CDS.
 
 The following illustartes the structure of the fine-tuning approach: 
 
